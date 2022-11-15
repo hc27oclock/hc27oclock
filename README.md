@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hc27oclock)](https://github.com/hc27oclock/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hc27oclock&theme=gruvbox)](https://github.com/hc27oclock/github-readme-stats)
 
 - 🌱 I’m currently learning ...
   **Nextflow**!
